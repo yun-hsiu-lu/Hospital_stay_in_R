@@ -25,6 +25,4 @@ We use the **Senic** dataset to analyze regional variation in patient length of 
 
 ## Tools Used
 - R
-- ggplot2
 - ANOVA
-- Diagnostic Testing (Shapiro-Wilk, Brown-Forsythe)
